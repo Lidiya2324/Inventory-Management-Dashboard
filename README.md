@@ -1,4 +1,4 @@
-# Inventory Management Dashboard
+# Inventory Management Power BI Dashboard
 
 ## Table of Contents
 
