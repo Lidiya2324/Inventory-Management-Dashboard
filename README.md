@@ -61,8 +61,7 @@ Main data preparation steps performed in the project:
 - Several products have available quantities below their re-order levels.
 
 ## Visualizations
-
-https://github.com/Lidiya2324/Inventory-Management-Dashboard/blob/main/Inventory%20Management%20Dashboard.jpg?raw=true
+https://github.com/Lidiya2324/Inventory-Management-Dashboard/blob/dbcc0b6198ca028f9ed3d2ba3c5883b84a520ba9/Inventory%20Management%20Dashboard.jpg
 
 ### 6. Stock Availability Percentage
 
